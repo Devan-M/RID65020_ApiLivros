@@ -30,7 +30,7 @@ Este é um projeto de backend desenvolvido em **Node.js** com **Express**, que f
 
 3. Inicie o Servidor:
       ```bash
-   node server.js
+   npm start
 
 4. Acesse a API em:
      ```bash
